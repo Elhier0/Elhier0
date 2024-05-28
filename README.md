@@ -16,7 +16,7 @@
 <div align="center">
 
 &gt;[
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&height=20&lines=Hey+There+!+I'm+Furkan+BAYTAK)](https://github.com/Elhier0)]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&height=20&lines=Hey+There+!+I'm+Furkan+ÖZKAYA)](https://github.com/Elhier0)]
 </div>
 
 <p align="center"> 
@@ -29,13 +29,13 @@
 </p>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/baytakfurkan/" target="_blank">
+ <a href="https://www.linkedin.com/in/furkan-%C3%B6zkaya-7250132b0/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Elhier0"/>
  </a>
   <a href="https://github.com/Elhier0" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Elhier0" />
 </a>
- <a href="https://www.instagram.com/baytak.png/" target="_blank">
+ <a href="https://www.instagram.com/furkan_zky/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Elhier0" />
  </a> 
 </p>
@@ -48,8 +48,6 @@
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
@@ -57,9 +55,6 @@
 
 <div align="center">
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -71,9 +66,6 @@
 <div align="center">
   
 [![Data-Point-Digitizer](https://github-readme-stats.vercel.app/api/pin/?username=Elhier0&repo=Data-Point-Digitizer&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Elhier0/Data-Point-Digitizer)
-[![YKS-Mobil-Sinav](https://github-readme-stats.vercel.app/api/pin/?username=Elhier0&repo=YKS-Mobil-Sinav&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Elhier0/YKS-Mobil-Sinav)
-[![VR-PC-Build](https://github-readme-stats.vercel.app/api/pin/?username=Elhier0&repo=VR-PC-Build&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Elhier0/VR-PC-Build)
-[![multivariate-var-rnn-lstm-forecasting](https://github-readme-stats.vercel.app/api/pin/?username=Elhier0&repo=multivariate-var-rnn-lstm-forecasting&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Elhier0/multivariate-var-rnn-lstm-forecasting)
 
 </div>
 
@@ -90,7 +82,7 @@
 
 <p align="center">
   <a href="https://github.com/Elhier0">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elhier0&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elhier0&theme=radical&border=7F3FBF&background=0D1117" alt="Furkan's GitHub streak"/>
   </a>
 </p>
 
