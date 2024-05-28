@@ -65,7 +65,7 @@
 ## Projects -
 <div align="center">
   
-[![Data-Point-Digitizer](https://github-readme-stats.vercel.app/api/pin/?username=Elhier0&repo=Data-Point-Digitizer&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Elhier0/Data-Point-Digitizer)
+[![Data-Point-Digitizer](https://github-readme-stats.vercel.app/api/pin/?username=FurkanBaytak&repo=Data-Point-Digitizer&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Elhier0/Data-Point-Digitizer)
 
 </div>
 
@@ -99,4 +99,4 @@
 </a>
 
 
-![Furkan Özkaya's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Elhier0&custom_title=Furkan%20BAYTAK's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Furkan Özkaya's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Elhier0&custom_title=Furkan%20Ozkaya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
