@@ -67,6 +67,7 @@
   
 [![Data-Point-Digitizer](https://github-readme-stats.vercel.app/api/pin/?username=FurkanBaytak&repo=Data-Point-Digitizer&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Elhier0/Data-Point-Digitizer)
 [![Java-Threads-OS-Project](https://github-readme-stats.vercel.app/api/pin/?username=FurkanBaytak&repo=Java-Threads-OS-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Elhier0/Java-Threads-OS-Project)
+[![Python-AI-Project](https://github-readme-stats.vercel.app/api/pin/?username=FurkanBaytak&repo=Python-AI-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Elhier0/Python-AI-Project)
 
 </div>
 
